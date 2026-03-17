@@ -8,10 +8,6 @@ No exams, no deadlines, no pressure. Just genuine interest.
 I've been fascinated by space since class 5. The dream was astrophysics — 
 then I checked the fees. Now I code for a living and study this for fun.
 
-## Roadmap
-
-- ⬜ Physics — Stanford Lectures
-
 ## Resources
 
 - Physics by Stanford (YouTube)
